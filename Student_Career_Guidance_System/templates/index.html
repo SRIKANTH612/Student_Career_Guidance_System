@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}Career{% endblock %}
+{% block content %}
+<form method="post" enctype="multipart/form-data">
+<input name="name" placeholder="Name" required>
+<input name="skills" placeholder="Skills">
+<label>Upload your resume</label>
+<input type="file" name="resume">
+<button>Analyze</button>
+</form>
+{% endblock %}

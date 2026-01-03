@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}Dashboard{% endblock %}
+{% block content %}
+<h3>Career Distribution</h3>
+<ul>
+{% for k,v in career_counts.items() %}
+<li>{{ k }} : {{ v }}</li>
+{% endfor %}
+</ul>
+{% endblock %}
