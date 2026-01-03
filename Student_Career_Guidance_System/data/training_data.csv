@@ -1,11 +1,5 @@
 skills,career
-python;statistics;machine learning;sql,Data Scientist
-python;machine learning;deep learning,AI Engineer
-python;flask;html;css;javascript,Web Developer
-html;css;javascript;react,Web Developer
-python;sql;data analysis,Data Scientist
-linux;networking;security,Cyber Security Analyst
-networking;ethical hacking;security,Cyber Security Analyst
-python;nlp;deep learning,AI Engineer
-java;spring;sql,Software Engineer
-c;c++;data structures,Software Engineer
+python statistics machine learning,Data Scientist
+html css javascript,Web Developer
+python nlp deep learning,AI Engineer
+networking linux security,Cyber Security Analyst
